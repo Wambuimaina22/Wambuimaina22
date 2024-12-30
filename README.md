@@ -7,4 +7,4 @@ I’m Faith, a dedicated Cybersecurity student passionate about safeguarding dig
 💬 Let’s discuss: Cybersecurity frameworks, threat modeling, and automation in security.
 📚 Goal: To build a strong foundation in both offensive and defensive security practices.
 📫 Contact: faymaina45@gmail.com
-⚡ Fun fact: I approach cybersecurity challenges like puzzles, uncovering hidden risks to create safer systems.
+⚡ Fun fact: I can find the needle in a haystack.
